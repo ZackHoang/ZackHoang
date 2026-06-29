@@ -15,6 +15,6 @@ When creating software, I care most about ease of understanding, communication a
 - Back-end: NodeJS, ExpressJS, PostgreSQL, Prisma
 - Operating System: Ubuntu
 
-![AK Banner](./ak-banner.png)
+![AK Banner](https://github.com/ZackHoang/ZackHoang/blob/main/ak-banner.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ZackHoang&label=PROFILE+VIEWS&color=blue&style=flat-square)
